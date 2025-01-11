@@ -1,5 +1,7 @@
 **autoOCR**
 
+Archived because I no longer use Linux. No idea if it still works.
+
 Takes downloaded images and converts them to text. Tested on Arch Linux
 
 
